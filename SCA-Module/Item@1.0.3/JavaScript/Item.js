@@ -56,6 +56,7 @@ define('Item'
 				clean_setting(item_option_configuration, 'label');
 				clean_setting(item_option_configuration, 'urlParameterName');
 				clean_setting(item_option_configuration, 'index');
+				//clean_setting(item_option_configuration, 'index');
 			});
 		}
 	};
